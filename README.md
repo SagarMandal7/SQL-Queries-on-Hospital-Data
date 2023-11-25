@@ -16,35 +16,12 @@ This repository contains SQL queries for a hospital database, addressing various
   <tr> <td>11. Patients, Physicians, and Medications: Retrieve information about patients, their treating physicians, and medications. </td></tr>
   <tr> <td>12. Count Available Rooms per Block: Count the number of available rooms in each block. </td></tr>
   <tr> <td>13. Count Available Rooms per Floor and Block: Count the number of available rooms for each floor in each block. </td></tr>
-  <tr>  <td>14. Count Available Rooms per Floor and Block: Count the number of available rooms for each floor in each block. </td></tr>
-  <tr>  <td>15.  Count Unavailable Rooms per Floor and Block: Count the number of rooms that are unavailable in each block and on each floor. </td></tr>
-  <tr>  <td>16.  Admitted Patients: Retrieve the names of patients, their block, floor, and room number where they are admitted. </td></tr>
-  <tr>  <td>17.  Physicians Performing Procedures: Find physicians who have performed a medical procedure but are not certified to do so. </td></tr>
-  <tr>  <td>18.  Patients Prescribed by Primary Care Physician: Determine patients prescribed medication by their primary care physician. </td></tr>
-  <tr>  <td>19.  Patients with Expensive Procedures and Primary Care by Non-Department Head Physicians: Identify patients who underwent expensive procedures and have primary care provided by a non-department head physician. </td></tr>
+  <tr>  <td>14.  Count Unavailable Rooms per Floor and Block: Count the number of rooms that are unavailable in each block and on each floor. </td></tr>
+  <tr>  <td>15.  Admitted Patients: Retrieve the names of patients, their block, floor, and room number where they are admitted. </td></tr>
+  <tr>  <td>16.  Physicians Performing Procedures: Find physicians who have performed a medical procedure but are not certified to do so. </td></tr>
+  <tr>  <td>17.  Patients Prescribed by Primary Care Physician: Determine patients prescribed medication by their primary care physician. </td></tr>
+  <tr>  <td>18.  Patients with Expensive Procedures and Primary Care by Non-Department Head Physicians: Identify patients who underwent expensive procedures and have primary care provided by a non-department head physician. </td></tr>
   <tr>  <td> .......... </td> </tr>
   <tr>
     <td> Feel free to use these queries as a reference for hospital database management. </td>
-  </tr>
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-Count Unavailable Rooms per Floor and Block: Count the number of rooms that are unavailable in each block and on each floor.
-Admitted Patients: Retrieve the names of patients, their block, floor, and room number where they are admitted.
-Physicians Performing Procedures: Find physicians who have performed a medical procedure but are not certified to do so.
-Patients Prescribed by Primary Care Physician: Determine patients prescribed medication by their primary care physician.
-Patients with Expensive Procedures and Primary Care by Non-Department Head Physicians: Identify patients who underwent expensive procedures and have primary care provided by a non-department head physician.
-Feel free to use these queries as a reference for hospital database management.
-</table>
+  </tr></table>
